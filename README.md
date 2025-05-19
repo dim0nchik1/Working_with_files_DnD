@@ -1,4 +1,5 @@
 # Домашнее задание к занятию "6. Работа с файлами, DnD"
+![CI](https://github.com//dim0nchik1/Working_with_files_DnD/actions/workflows/web.yml/badge.svg)
 
 
 Правила сдачи задания:
